@@ -275,30 +275,8 @@ Quer melhorar a interface gráfica? Contribuições são muito bem-vindas!
 
 Desenvolvido com ❤️ para demonstrar o poder das **interfaces gráficas em Java** e as melhores práticas de **desenvolvimento desktop**.
 
-**📧 Contato:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-**🐙 GitHub:** [@seu-usuario](https://github.com/seu-usuario)  
-**💼 LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
+**📧 Contato:** [davi.armando@hotmail.com](mailto:davi.armando@hotmail.com)  
+**🐙 GitHub:** [@DaviSales1308]([https://github.com/seu-usuario](https://github.com/DaviSales1308))  
+**💼 LinkedIn:** [Davi Armando Lira Sales](https://linkedin.com/in/daavisales)
 
 ---
-
-## 🏅 **Agradecimentos**
-
-- ☕ **Oracle/Sun** pela linguagem Java e biblioteca Swing
-- 🎨 **Comunidade Swing** pelos exemplos e tutoriais
-- 📚 **Professores** que incentivaram interfaces gráficas
-- 🌟 **Desenvolvedores** que compartilham conhecimento sobre GUI
-
----
-
-<div align="center">
-
-### ⭐ **Se este projeto te impressionou, deixe uma estrela!** ⭐
-
-**Interface Gráfica + POO = Combinação Perfeita! 🎨☕**
-
-![Java](https://img.shields.io/badge/Made%20with-Java%20Swing-blue?style=for-the-badge&logo=java)
-![GUI](https://img.shields.io/badge/Beautiful-GUI-green?style=for-the-badge&logo=desktop)
-
-*"A melhor interface é aquela que o usuário nem percebe que está usando."*
-
-</div>
